@@ -22,5 +22,6 @@ for (let contador = 0; contador <= numeroDeAlunos; contador++) {
       } else {
           console.log("O numero " + contador + " é IMPAR")
       }
-  }
+   
+}
         
